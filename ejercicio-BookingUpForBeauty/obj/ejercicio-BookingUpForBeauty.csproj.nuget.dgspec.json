@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-BookingUpForBeauty\\ejercicio-BookingUpForBeauty.csproj": {}
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-BookingUpForBeauty\\ejercicio-BookingUpForBeauty.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-BookingUpForBeauty\\ejercicio-BookingUpForBeauty.csproj": {
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-BookingUpForBeauty\\ejercicio-BookingUpForBeauty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-BookingUpForBeauty\\ejercicio-BookingUpForBeauty.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-BookingUpForBeauty\\ejercicio-BookingUpForBeauty.csproj",
         "projectName": "ejercicio-BookingUpForBeauty",
-        "projectPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-BookingUpForBeauty\\ejercicio-BookingUpForBeauty.csproj",
+        "projectPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-BookingUpForBeauty\\ejercicio-BookingUpForBeauty.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-BookingUpForBeauty\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-BookingUpForBeauty\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sara\\AppData\\Roaming\\NuGet\\NuGet.Config"

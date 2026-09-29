@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-tim-from-marketing\\ejercicio-tim-from-marketing.csproj": {}
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-tim-from-marketing\\ejercicio-tim-from-marketing.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-tim-from-marketing\\ejercicio-tim-from-marketing.csproj": {
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-tim-from-marketing\\ejercicio-tim-from-marketing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-tim-from-marketing\\ejercicio-tim-from-marketing.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-tim-from-marketing\\ejercicio-tim-from-marketing.csproj",
         "projectName": "ejercicio-tim-from-marketing",
-        "projectPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-tim-from-marketing\\ejercicio-tim-from-marketing.csproj",
+        "projectPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-tim-from-marketing\\ejercicio-tim-from-marketing.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-tim-from-marketing\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-tim-from-marketing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sara\\AppData\\Roaming\\NuGet\\NuGet.Config"

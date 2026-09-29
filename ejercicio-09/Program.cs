@@ -1,4 +1,16 @@
-﻿class BirdCount
+﻿int[] birds = BirdCount.LastWeek();
+BirdCount birdCount = new BirdCount(birds);
+Console.WriteLine("Pajaritos de hoy: " + birdCount.Today());
+
+birdCount.IncrementTodaysCount();
+Console.WriteLine("Pajaritos de hoy después de incrementar: " + birdCount.Today());
+
+Console.WriteLine("¿Hubo algún día sin pajaritos? " + birdCount.HasDayWithoutBirds());
+int firstDaysCount = birdCount.CountForFirstDays(3);
+Console.WriteLine("Total de pajaritos en los primeros 3 días: " + firstDaysCount);
+Console.WriteLine("Días con actividad: " + birdCount.BusyDays());
+
+class BirdCount
 {
     private int[] birdsPerDay;
 

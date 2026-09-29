@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-InterestIsInteresting\\ejercicio-InterestIsInteresting.csproj": {}
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-InterestIsInteresting\\ejercicio-InterestIsInteresting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-InterestIsInteresting\\ejercicio-InterestIsInteresting.csproj": {
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-InterestIsInteresting\\ejercicio-InterestIsInteresting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-InterestIsInteresting\\ejercicio-InterestIsInteresting.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-InterestIsInteresting\\ejercicio-InterestIsInteresting.csproj",
         "projectName": "ejercicio-InterestIsInteresting",
-        "projectPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-InterestIsInteresting\\ejercicio-InterestIsInteresting.csproj",
+        "projectPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-InterestIsInteresting\\ejercicio-InterestIsInteresting.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-InterestIsInteresting\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-InterestIsInteresting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sara\\AppData\\Roaming\\NuGet\\NuGet.Config"

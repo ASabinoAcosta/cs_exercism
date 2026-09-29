@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-RollTheDie\\ejercicio-RollTheDie.csproj": {}
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-RollTheDie\\ejercicio-RollTheDie.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-RollTheDie\\ejercicio-RollTheDie.csproj": {
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-RollTheDie\\ejercicio-RollTheDie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-RollTheDie\\ejercicio-RollTheDie.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-RollTheDie\\ejercicio-RollTheDie.csproj",
         "projectName": "ejercicio-RollTheDie",
-        "projectPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-RollTheDie\\ejercicio-RollTheDie.csproj",
+        "projectPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-RollTheDie\\ejercicio-RollTheDie.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-RollTheDie\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-RollTheDie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sara\\AppData\\Roaming\\NuGet\\NuGet.Config"

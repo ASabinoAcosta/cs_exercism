@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\ejercicio-JedliksToys.csproj": {}
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\ejercicio-JedliksToys.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\ejercicio-JedliksToys.csproj": {
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\ejercicio-JedliksToys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\ejercicio-JedliksToys.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\ejercicio-JedliksToys.csproj",
         "projectName": "ejercicio-JedliksToys",
-        "projectPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\ejercicio-JedliksToys.csproj",
+        "projectPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\ejercicio-JedliksToys.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sara\\AppData\\Roaming\\NuGet\\NuGet.Config"
