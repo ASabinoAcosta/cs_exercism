@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\ejercicio-JedliksToys.csproj",
+      "projectUniqueName": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys-08\\ejercicio-JedliksToys.csproj",
       "projectName": "ejercicio-JedliksToys",
-      "projectPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\ejercicio-JedliksToys.csproj",
+      "projectPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys-08\\ejercicio-JedliksToys.csproj",
       "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys\\obj\\",
+      "outputPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-JedliksToys-08\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sara\\AppData\\Roaming\\NuGet\\NuGet.Config"
