@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-13\\ejercicio-13.csproj": {}
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-13\\ejercicio-13.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-13\\ejercicio-13.csproj": {
+    "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-13\\ejercicio-13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-13\\ejercicio-13.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-13\\ejercicio-13.csproj",
         "projectName": "ejercicio-13",
-        "projectPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-13\\ejercicio-13.csproj",
+        "projectPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-13\\ejercicio-13.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-13\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Downloads\\cs_exercism\\ejercicio-13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sara\\AppData\\Roaming\\NuGet\\NuGet.Config"
